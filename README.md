@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @devu0409
+- 👋 Hi, I’m Devanshu.
 - 👀 I’m interested in Java and Springboot related technologies. I am also trying to learn frontend technologies such as JavaScript.
-- 🌱 I’m currently revisiting Data Structures and Alorithms
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Node Js
+- 💞️ I’m looking to collaborate on anything where I can learn and work on new technologies
 - 📫 How to reach me - DM me on linkedIn: https://www.linkedin.com/in/devanshu-gupta-984844b4/ 
 
 <!---
